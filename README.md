@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am a web developer. I currently live in Cologne. 
 ---
 ### ![CatComputerGIF](https://user-images.githubusercontent.com/51678690/119563163-88f6dd00-bda7-11eb-88ef-f699db9faa85.gif)
- I am a web developer. I currently live in Cologne.
 ---
 <!--
 **dimitris-kaikonidis/dimitris-kaikonidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
