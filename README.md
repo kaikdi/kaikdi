@@ -1,7 +1,7 @@
-<div display:'flex' align-items:'center'>
-  <h1> Hi there 👋 I am a full stack developer. I currently live in Cologne. <h1>
-  <img src="https://user-images.githubusercontent.com/51678690/119563163-88f6dd00-bda7-11eb-88ef-f699db9faa85.gif" width="100px" /> 
-    </div>
+
+## Hi there 👋 I am a full stack developer. I currently live in Cologne. 
+<img align="right" src="https://user-images.githubusercontent.com/51678690/119563163-88f6dd00-bda7-11eb-88ef-f699db9faa85.gif" width="100px" /> 
+
 ---
 <!--
 **dimitris-kaikonidis/dimitris-kaikonidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
