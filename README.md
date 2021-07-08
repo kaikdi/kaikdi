@@ -1,16 +1,17 @@
 
-## Hi there 👋 I am a full stack developer. I currently live in Cologne. 
-  <h1>Tech stack</h1>
-  <ul>
-  <li>PostgreSQL</li>
-  <li>Express</li>
-  <li>React & Redux</li>
-  <li>Node.js</li>
-  </ul>
-  <img align="right" src="https://user-images.githubusercontent.com/51678690/119563163-88f6dd00-bda7-11eb-88ef-f699db9faa85.gif" width="100px" /> 
+## Hi there 👋 I am a full stack developer. I currently live in Cologne.
+###Tech stack
+ - PostgreSQL
+ - Express
+ - React & Redux
+ - Node.js
+ <img align="right" src="https://user-images.githubusercontent.com/51678690/119563163-88f6dd00-bda7-11eb-88ef-f699db9faa85.gif" width="100px" /> 
 
-<h1>Tech I am currently learning and very interested in</h1>
-- Neo4js GraphQL
+<h1>Familiar with</h1>
+- TypeScript
+- Sass
+- Next.js
+- Redis
 
 
 <!--
