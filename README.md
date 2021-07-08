@@ -1,6 +1,5 @@
 
 ## Hi there 👋 I am a full stack developer. I currently live in Cologne. 
-<p>
   <h1>Tech stack</h1>
   <ul>
   <li>PostgreSQL</li>
@@ -9,9 +8,8 @@
   <li>Node.js</li>
   </ul>
   <img align="right" src="https://user-images.githubusercontent.com/51678690/119563163-88f6dd00-bda7-11eb-88ef-f699db9faa85.gif" width="100px" /> 
-</p>
 
-Tech I am currently learning and very interested in 
+<h1>Tech I am currently learning and very interested in</h1>
 - Neo4js GraphQL
 
 
