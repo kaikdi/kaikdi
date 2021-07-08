@@ -1,4 +1,4 @@
-<div display:flex; align-items:center;>
+<div display:'flex' align-items:'center'>
   <h1> Hi there 👋 I am a full stack developer. I currently live in Cologne. <h1>
   <img src="https://user-images.githubusercontent.com/51678690/119563163-88f6dd00-bda7-11eb-88ef-f699db9faa85.gif" width="100px" /> 
     </div>
