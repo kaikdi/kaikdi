@@ -1,5 +1,6 @@
 
-## Hi there 👋 I am a full stack developer. I currently live in Cologne.
+## Hi there 👋, thank you for visiting my profile.
+
 ### Tech stack 
  - PostgreSQL
  - Express
@@ -15,6 +16,12 @@
 
 ### Currently Learning
 - Neo4j GraphQL
+
+
+#### Contact me at 
+
+- Email: dimitris.kaikonidis@gmail.com
+- <a href="https://www.linkedin.com/in/dimitris-kaikonidis/">My LinkedIn</a>
 
 
 
