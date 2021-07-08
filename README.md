@@ -1,13 +1,13 @@
 
 ## Hi there 👋 I am a full stack developer. I currently live in Cologne.
-###Tech stack
+### Tech stack
  - PostgreSQL
  - Express
  - React & Redux
  - Node.js
  <img align="right" src="https://user-images.githubusercontent.com/51678690/119563163-88f6dd00-bda7-11eb-88ef-f699db9faa85.gif" width="100px" /> 
 
-<h1>Familiar with</h1>
+### Familiar with 
 - TypeScript
 - Sass
 - Next.js
