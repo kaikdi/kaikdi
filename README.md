@@ -1,6 +1,9 @@
 
 ## Hi there 👋 I am a full stack developer. I currently live in Cologne. 
-<img align="right" src="https://user-images.githubusercontent.com/51678690/119563163-88f6dd00-bda7-11eb-88ef-f699db9faa85.gif" width="100px" /> 
+<p>
+  My tech stack of choice is PostgreSQL, Express, React, Node.js
+  <img align="right" src="https://user-images.githubusercontent.com/51678690/119563163-88f6dd00-bda7-11eb-88ef-f699db9faa85.gif" width="100px" /> 
+</p>
 
 ---
 <!--
