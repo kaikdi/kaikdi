@@ -14,6 +14,8 @@
 - Next.js
 - Redis
 - Jest
+- jQuery
+- Python
 
 ### Currently Learning
 - Neo4j GraphQL
