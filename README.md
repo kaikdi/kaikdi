@@ -13,6 +13,7 @@
 - Sass
 - Next.js
 - Redis
+- Jest
 
 ### Currently Learning
 - Neo4j GraphQL
