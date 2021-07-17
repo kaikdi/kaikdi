@@ -17,10 +17,6 @@
 - jQuery
 - Python
 
-### Currently Learning
-- Neo4j GraphQL
-
-
 #### Contact me at 
 
 - Email: dimitris.kaikonidis@gmail.com
