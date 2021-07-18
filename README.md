@@ -1,6 +1,9 @@
 
 ## Hi there 👋, thank you for visiting my profile.
 
+### Core 
+JavaScript, HTML & CSS
+
 ### Tech stack 
  - PostgreSQL
  - Express
