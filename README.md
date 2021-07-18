@@ -19,6 +19,8 @@ JavaScript, HTML & CSS
 - Jest
 - jQuery
 - Python
+- Amazon Web Services
+- Web Sockets (socket.io)
 
 #### Contact me at 
 
