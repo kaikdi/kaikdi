@@ -7,13 +7,16 @@ JavaScript, HTML & CSS
 ### Tech stack 
  - PostgreSQL
  - Express
- - React & Redux
+ - React
  - Node.js
  <img align="right" src="https://user-images.githubusercontent.com/51678690/119563163-88f6dd00-bda7-11eb-88ef-f699db9faa85.gif" width="100px" /> 
  
 ### Additional Skills 
 - TypeScript
+- GraphQL
+- Redux
 - Sass
+- StyledComponents
 - Next.js
 - Redis
 - Jest
